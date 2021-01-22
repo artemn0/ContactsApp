@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Contact"},{"p":"<Unnamed>","l":"ContactsApp"},{"p":"<Unnamed>","l":"ContactsStorage"},{"p":"<Unnamed>","l":"ContactsStorage.FileReadingStage"}]
